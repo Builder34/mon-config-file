@@ -1,7 +1,7 @@
 # mon-config-file
 
 #### 项目介绍
-用于mon-config-server配置中心文件存放
+用于mon项目配置中心文件存放
 
 #### 软件架构
 软件架构说明
